@@ -17,9 +17,8 @@ sys.path.insert(0, os.path.abspath('../'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'icetrackpy'
-copyright = '2024, Martin THIRIET'
-author = 'Martin THIRIET'
+project = 'python_lib_quickstart'
+author = 'IGE Calcul'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'

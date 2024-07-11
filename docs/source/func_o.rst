@@ -3,6 +3,6 @@ Functions overview
 
 My awesome function
 *******************
-.. automodule:: pylib_quick.pylib_quick
+.. automodule:: python_lib_quickstart.python_lib_quickstart
 	:special-members:
 	:members:

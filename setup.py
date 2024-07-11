@@ -12,13 +12,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'pylib_quick'
-DESCRIPTION = 'python package'
-URL = 'https://gricad-gitlab.univ-grenoble-alpes.fr/quicktools/pylib_quick'
+NAME = 'python_lib_quickstart'
+DESCRIPTION = 'python library packaging example'
+URL = 'https://github.com/ige-calcul/python_lib_quickstart'
 EMAIL = 'thomas.chauve@univ-grenoble-alpes.fr'
 AUTHOR = 'Thomas Chauve'
 REQUIRES_PYTHON = '>=3.11'
-VERSION = '0.2'
+VERSION = '0.3'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
